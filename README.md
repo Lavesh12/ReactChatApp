@@ -3,8 +3,8 @@
 ## Screenshots :- 
   
   1. Desptop Screen:- 
+![Screenshot (71)](https://github.com/Lavesh12/ReactChatApp/assets/94188971/1a57ddc5-b04c-455b-90a6-fae90d2fc4e0)
 
-![Screenshot (71)](https://github.com/Lavesh12/ReactChatApp/assets/94188971/a8dc774e-904a-45c3-84e8-307725e3c3c1)
 
     
 
